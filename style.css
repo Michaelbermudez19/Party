@@ -1,0 +1,56 @@
+.Titulo1{
+    background-color: blue;
+    font-size: 2rem;
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-family: 'Kolker Brush', cursive;
+}
+.Titulo2{
+    font-family: 'Abril Fatface', cursive;
+}
+.Titulo3{
+    font-family: 'Roboto', sans-serif;
+    color: black;
+}
+body{
+    background-image: url(https://media.tenor.com/oNIhI-J__j0AAAAM/smile-guy.gif);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
+button{
+    background-color: orange;
+    color: green;
+}
+.table{
+    border-collapse: collapse;
+}
+.table td{
+    border: 1px solid;
+    text-align: center;
+}
+.table th{
+    background-color: green;
+    color: white;
+}
+.table td:hover{
+    background-color: red;
+    color: azure;
+}
+.table tr{
+    background-color: aqua;
+    color: black;
+    font-family: 'Abril Fatface', cursive;
+}
+caption{
+    font-family: 'Kolker Brush', cursive;
+    font-size: 4rem;
+}
+.table th:hover{
+    background-color: rebeccapurple;
+    color: black;
+}
